@@ -1,5 +1,5 @@
 # CalfMoon, aka Kritagya Bhattarai
-Im a student from Nepal intrested in all things computer.
+I'm a student from Nepal intrested in all things computer.
 I usually do person projects and challenges related to web technologies but I'm willing to use any tool to get the job done.
 I use NixOS (formerly arch btw) + Hyprland and waste most of my time configuring useless things on my desktop (I don't regret it a single bit).
 
