@@ -23,4 +23,5 @@ I use NixOS (formerly arch btw) + Hyprland and waste most of my time configuring
 (not the best, I know)
 
 ## Contacts
-Email: kritagyabhattarai@proton.me
+- Email: kritagyabhattarai@proton.me
+- Discord: calfmoon
