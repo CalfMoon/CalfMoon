@@ -16,9 +16,9 @@ I use NixOS (formerly arch btw) + Hyprland and waste most of my time configuring
 <br />
 
 ## Stats
-![CalfMoon's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=CalfMoon&show_icons=true&layout=donut&theme=catppuccin_mocha)
+![CalfMoon's GitHub lang stats](./profile/top-lang.svg)
 <br />
-![CalfMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalfMoon&show_icons=true&theme=catppuccin_mocha)
+![CalfMoon's GitHub stats](./profile/stats.svg)
 <br />
 (not the best, I know)
 
