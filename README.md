@@ -16,7 +16,7 @@ I use NixOS (formerly arch btw) + Hyprland and waste most of my time configuring
 <br />
 
 ## Stats
-![CalfMoon's GitHub lang stats](./profile/top-lang.svg)
+![CalfMoon's GitHub lang stats](./profile/top-langs.svg)
 <br />
 ![CalfMoon's GitHub stats](./profile/stats.svg)
 <br />
